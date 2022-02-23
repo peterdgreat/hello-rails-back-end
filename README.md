@@ -5,9 +5,9 @@
 > RUBY API For Random greetings
 
 
-## LINK TO REACT PROJECT
+## LINK TO REACT PROJECT PR
 
-[React](https://github.com/peterdgreat/hello-react-front-end)
+[React](https://github.com/peterdgreat/hello-react-front-end/pull/1)
 
 
 
